@@ -1,3 +1,5 @@
 export * from "./getUser"
 export * from "./loginUser"
 export * from "./logoutUser"
+export * from "./getLastView"
+export * from "./setLastView"
